@@ -1,6 +1,6 @@
 # Sistematic Literature Review (SLR) about debugging in the automation domain
 
-This repository contains the results of a Sistematic Literature Review carried out in may 2023 about debugging in the automation domain which is the subject of a journal paper. An extract of the paper is presented below about the process carried out for the SLR. The results can be seen in the [results.csv](./results.csv) file.
+This repository contains the results of a Sistematic Literature Review carried out in may 2023 about debugging in the automation domain which is the subject of a journal paper. An extract of the paper is presented below about the process carried out for the SLR. The results can be seen in the [results_all.csv](./results_all.csv) file. Because github renders `.csv/.tsv` files properly only for files smaller than [512 KB](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files#handling-errors), the same information in [results_all.csv](./results_all.csv) was divided in two parts, namely [results_1.csv](./results_1.csv) and [results_2.csv](./results_2.csv).
 
 ## Research Questions
 
@@ -70,5 +70,5 @@ After reading the title, abstract and keywords of all the found entries, the inc
 - Wrong domain: 17,3%.
 - Resource is not a paper or book chapter: 2,2%.
 
-These 156 resources were read fully and only the amount of 50 presented information relevant to the RQs. The results can be seen in the [results.csv](./results.csv) file.
+These 156 resources were read fully and only the amount of 50 presented information relevant to the RQs. The results can be seen in the [results_all.csv](./results_all.csv) file.
 
